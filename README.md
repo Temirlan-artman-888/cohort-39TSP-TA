@@ -49,3 +49,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # cohort-39TSP-TA
 Typescript project
 >>>>>>> 40808c1a6fb88ed0886b07327efc3b2181ef1e46
+
+Libraries that allows use styles without ccs style file 
+npm install --save @emotion/styled
+
+npm install --save @emotion/react 
