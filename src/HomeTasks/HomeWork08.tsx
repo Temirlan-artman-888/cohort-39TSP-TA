@@ -1,4 +1,4 @@
-import Button from '../Lessons/Button/Button'
+import Button from './Button/Button'
 
 import { Lesson08Wrapper, ButtonControl, Box1, Box2, Box3,  } from "./styles";
 
