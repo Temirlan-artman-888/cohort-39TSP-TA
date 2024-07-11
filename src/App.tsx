@@ -1,6 +1,6 @@
 // import Homework06 from './Homeworks/homework06';
 import './App.css';
-import Input from './HomeTasks/Input/Input';
+import Input from './Lessons/Input/Input';
 
 function App() {
   return (
